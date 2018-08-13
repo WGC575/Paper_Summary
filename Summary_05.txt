@@ -1,0 +1,4 @@
+A Comparison of Bug Finding Tools for Java
+
+It's a comparation study of Bug Finding Tools, Bandera, ESC/Java 2, FindBugs, JLint, and PMD and a proposition of a 
+meta tool. 
