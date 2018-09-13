@@ -11,3 +11,6 @@ Summary_04: A Case Study Comparing Bug Finding Tools with Reviews and Tests
 
 Summary_05: A Comparison of Bug Finding Tools for Java
 
+Summary_06: There and back again: Can you compile that snapshot?
+
+Summary_07: Automatic Building of Java Projects in Software Repositories: A Study on Feasibility and Challenges

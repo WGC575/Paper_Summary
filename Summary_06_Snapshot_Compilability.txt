@@ -1,0 +1,11 @@
+There and back again: Can you compile that snapshot?
+
+This thesis mainly focus on the relationship between the Broken Intervals (BI), 
+Change History (CH) and Compilability based on 100 projects from Apache Software 
+Foundation.
+
+The main results lies on that 
+
+1. many of the snapshots are incompilable.
+2. more recent snapshots are less likely to be incompilable.
+3. Most incompilablilty problems result from resolution (i.e. dependencies)

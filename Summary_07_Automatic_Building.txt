@@ -1,0 +1,13 @@
+Automatic Building of Java Projects in Software Repositories: A Study on Feasibility and Challenges
+
+This thesis mainly works on the:
+1. Building success rate
+2. Taxonomy on the root cause
+3. Identification of root cause
+4. Resolving incompilability
+
+results mainly lies on:
+1. Low incompilability
+2. Environment, Process, Project
+3. README, Build Log
+4. Building command, Version Reverting, Dummy File Generation, Other Types of Failures
