@@ -1,0 +1,5 @@
+The Relationship between Commit Message Detail and Defect Proneness in Java Projects on GitHub
+
+This paper introduce a model that predict defects from commits volume and contents. 
+
+In this paper, the relation between the contents, volume and the happening of defects are comfirmed.

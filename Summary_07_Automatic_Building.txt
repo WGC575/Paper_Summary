@@ -11,3 +11,7 @@ results mainly lies on:
 2. Environment, Process, Project
 3. README, Build Log
 4. Building command, Version Reverting, Dummy File Generation, Other Types of Failures
+
+Feasibility of auto building:
+1. Reverting platform to all possible versions.
+2. Generating dummy property files.
