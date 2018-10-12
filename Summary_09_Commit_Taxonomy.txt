@@ -1,0 +1,6 @@
+What do large commits tell us? A taxonomical study of large commits
+
+This Passage mainly told a taxonomy of commits by studying its purpose, and limited to larges projects (large commits).
+Idea basically from an earlier study, they extend the categories. 
+Furthermore, they dive into 9 specific project repository to establish an data summary of all commits and come out with the proportion of different types.
+The conclusion is the large commits are more perfective than corrective.
