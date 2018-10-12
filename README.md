@@ -17,10 +17,6 @@ Summary_07: Automatic Building of Java Projects in Software Repositories: A Stud
 
 Summary_08: The Relationship between Commit Message Detail and Defect Proneness in Java Projects on GitHub
 
-<<<<<<< HEAD
 Summary_09: What do large commits tell us? A taxonomical study of large commits
 
 Summary_10: The Dimensions of Maintenance
-=======
-Summary_09: `
->>>>>>> 45d5adec19e24144e12492ef7ab2f7d89b6f1de9
