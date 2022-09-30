@@ -9,6 +9,8 @@
 - **Summary**: Allow the users to interrogate the program synthesizer.
 - **Motivation**: Help programmers with coding tedious code, but the synthesis doesn't work for all situations. So we want to have ability to help users to interrogate the synthesizer.
 - **Approach**: Two groups with 9 students each, tested with/without sub-specification. The sub-specifications are some more information, details about part of the entire requirement.
+- **Potential application**: localizing bugs, generate information that helps fix the bugs.
 - **Questions**: The average coding level may vary between two groups. (By the way, the times given to two groups are also different.)
+- **Potentially useful information**: OpenAI Codex, which can explain code. This may be used for generating comments/documentations.
 
 ## 10/7
