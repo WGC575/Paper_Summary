@@ -13,4 +13,10 @@
 - **Questions**: The average coding level may vary between two groups. (By the way, the times given to two groups are also different.)
 - **Potentially useful information**: OpenAI Codex, which can explain code. This may be used for generating comments/documentations.
 
-## 10/7
+## 10/7 Xin - Make Verification scalable
+
+- **Performing sampling**
+- **Black box**
+- **Guess the robustness value**: Previous approach only provide solutions to find one point, but here they tried to find all in a certain region.
+- **Gaussian regression**: Prediction model.
+- **Conformal inference**
