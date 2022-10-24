@@ -20,3 +20,13 @@
 - **Guess the robustness value**: Previous approach only provide solutions to find one point, but here they tried to find all in a certain region.
 - **Gaussian regression**: Prediction model.
 - **Conformal inference**
+
+## 10/21 Synthesis and Verification for Distributed Systems - Mosen Lesani
+
+- high level specifications
+- midwares, instructions
+- apps
+
+### Byzantine General Problem
+
+- Assuming the messaging is trustworthy, we need to solve the problem of potential erroneous information.
