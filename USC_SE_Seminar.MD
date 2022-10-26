@@ -24,7 +24,7 @@
 ## 10/21 Synthesis and Verification for Distributed Systems - Mosen Lesani
 
 - high level specifications
-- midwares, instructions
+- midware, instructions
 - apps
 
 ### Byzantine General Problem
