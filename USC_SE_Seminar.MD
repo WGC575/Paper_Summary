@@ -31,7 +31,11 @@
 
 - Assuming the messaging is trustworthy, we need to solve the problem of potential erroneous information.
 
-### Web Assembly from JavaScript - Alan
+### Web Assembly Obfuscation from JavaScript - Alan
+
+#### Obfuscation tools, studies, and detection
+
+Code obfuscation takes well-engineered code and makes it difficult for an attacker to understand.
 
 - Between JS and WS. JS is dynamically-typed while WS is not.
 - AST
@@ -42,7 +46,3 @@
 - Identify code locations.
 - Transform JS to JS and WA.
 - Obfuscated cases.
-
-#### Obfuscation tools, studies, and detection
-
-Code obfuscation takes well-engineered code and makes it difficult for an attacker to understand.
