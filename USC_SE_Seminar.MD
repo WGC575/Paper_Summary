@@ -30,3 +30,19 @@
 ### Byzantine General Problem
 
 - Assuming the messaging is trustworthy, we need to solve the problem of potential erroneous information.
+
+### Web Assembly from JavaScript - Alan
+
+- Between JS and WS. JS is dynamically-typed while WS is not.
+- AST
+- Synchronous and asynchronous transformations.
+
+#### Models
+
+- Identify code locations.
+- Transform JS to JS and WA.
+- Obfuscated cases.
+
+#### Obfuscation tools, studies, and detection
+
+Code obfuscation takes well-engineered code and makes it difficult for an attacker to understand.
