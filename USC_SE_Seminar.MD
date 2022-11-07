@@ -46,3 +46,15 @@ Code obfuscation takes well-engineered code and makes it difficult for an attack
 - Identify code locations.
 - Transform JS to JS and WA.
 - Obfuscated cases.
+
+## 11/4 Dominik Winterer - SMT Solver
+
+- **SMT**: Satisfiability Modulo Theory. This is a higher level of SAT. SAT focuses only on boolean expressions but SMT works on more general entities in programming, such as real numbers and some data structures.
+- **Key Idea**: Fuse two existing equi-satisfiable formula into one that preserve the satisfiability, which will be used for validating SMT solvers.
+- **Tool**: YinYang, a tool for SMT solver testing.
+
+
+
+
+### Semantic Fusion
+
