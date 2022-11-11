@@ -70,7 +70,7 @@ Metrics for Agile:
 
 **Valuation Approaches**:
 
-### Cost Approach: not quite reflective since cost does not cover all the intellectual.
+### Cost Approach: not quite reflective since cost does not cover all the intellectual
 
 - Historical cost method: cost of development and opportunity costs, also not reflective.
 - Replacement cost method: replace or use existing tools.
