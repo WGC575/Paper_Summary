@@ -76,5 +76,3 @@ Code obfuscation takes well-engineered code and makes it difficult for an attack
 - Juliet test suite (NSA)
 
 Challenges for manually collecting data: CVE reports are given in nature language. The code needs to be checked to identify the actual cause of those vulnerability bugs.
-
-
