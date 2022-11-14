@@ -53,8 +53,28 @@ Code obfuscation takes well-engineered code and makes it difficult for an attack
 - **Key Idea**: Fuse two existing equi-satisfiable formula into one that preserve the satisfiability, which will be used for validating SMT solvers.
 - **Tool**: YinYang, a tool for SMT solver testing.
 
-
-
-
 ### Semantic Fusion
+
+## Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities
+
+**Problem**: Some vulnerabilities are recurring with some identifiable text ("similar to CVE...").
+
+**Insights**: reuse of code, packages and libraries.
+
+**Goal**: accuracy, robustness, generalizability, scalablilty, usability.
+
+**Methodology**:
+
+- Data dependency
+- Detect new vulnerabilities
+- Check similarities
+- Compare the trace (a line from the source to the sink of a bug/vulnerability)
+
+**Dataset**:
+
+- OWASP
+- Juliet test suite (NSA)
+
+Challenges for manually collecting data: CVE reports are given in nature language. The code needs to be checked to identify the actual cause of those vulnerability bugs.
+
 
