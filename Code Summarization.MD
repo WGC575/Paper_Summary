@@ -15,7 +15,7 @@
 - **Problem**: Documentation for developers to read and understand the program is often absent or outdated.
 - **Approach**: To automatically generate human-readable summaries for java classes, with an assumption that no documentation exists. It uses existing lexicalization tools.
 **This is specifically for class summarization, and it focuses on the contents of the classes instead of the relationships between classes.**
-- **Evaluation**: Manual. A group of programmers reads the outputs from the tools while not owning extraneous knowledge and not missing any cri []tical information.
+- **Evaluation**: Manual. A group of programmers reads the outputs from the tools while not owning extraneous knowledge and not missing any critical information.
 
 ## [ASE 2010] Towards automatically generating summary comments for Java methods
 
@@ -32,3 +32,20 @@
 - **Problem**: Not specified.
 - **Approach**: Replication and extension of an existing tool, based on topic-modeling.
 - **Evaluation**: 14 programmers to evaluate.
+
+## [ICPS 2020] Improved Code Summarization via a Graph Neural Network
+
+<https://arxiv.org/abs/2004.02843>
+
+- **Problem**: Structural information are used to improve performance. However, only AST is used rather than GNN.
+- **Approach**: GNN-based approach, applied to 2.1 million Java method-comment pairs.
+- **Evaluation**: Compared to four baseline techniques, two from software engineering, other two from machine learning literature.
+
+## [ICSE 2020] Retrieval-based Neural Source Code Summarization
+
+<https://dl.acm.org/doi/10.1145/3377811.3380383>
+
+- **Problem**: Neural-based approaches prefer the high frequency words in the corpus, but it's having trouble with the low-frequency ones.
+- **Approach**: Retrival-based neural source code approach by enhancing the neural model with the most similar code snippets retrieved from the training set.
+- **Evaluation**:
+- Code provided.
