@@ -83,4 +83,5 @@ Challenges for manually collecting data: CVE reports are given in nature languag
 
 - Data warehouse: correlation and verification (make sure the data are true).
 
-## 2022/12/2 
+## 2022/12/2 Program Fuzzing
+
