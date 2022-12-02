@@ -49,3 +49,8 @@
 - **Approach**: Retrival-based neural source code approach by enhancing the neural model with the most similar code snippets retrieved from the training set.
 - **Evaluation**:
 - Code provided.
+
+## [ACL 2020] A Transformer-based Approach for Source Code Summarization
+
+<https://arxiv.org/pdf/2005.00653.pdf>
+

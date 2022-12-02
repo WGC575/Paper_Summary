@@ -82,3 +82,5 @@ Challenges for manually collecting data: CVE reports are given in nature languag
 - Reduce risk and grow loan profit: traditional method (credit score) does not provide information about health, future health, and future income, etc.
 
 - Data warehouse: correlation and verification (make sure the data are true).
+
+## 2022/12/2 
