@@ -85,3 +85,6 @@ Challenges for manually collecting data: CVE reports are given in nature languag
 
 ## 2022/12/2 Program Fuzzing
 
+- **Problem**: To automatically expose vulnerabilities. Previous approaches are simply applying default setting for Havoc without seeking for potential improvements.
+- **Approach**: Adjusting settings for Havoc and integrating approaches, such Multi-armed Bandits to improve coverage.
+- **Evaluation**: Comparing the coverage of the tools.
