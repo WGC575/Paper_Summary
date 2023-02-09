@@ -88,3 +88,15 @@ Challenges for manually collecting data: CVE reports are given in nature languag
 - **Problem**: To automatically expose vulnerabilities. Previous approaches are simply applying default setting for Havoc without seeking for potential improvements.
 - **Approach**: Adjusting settings for Havoc and integrating approaches, such Multi-armed Bandits to improve coverage.
 - **Evaluation**: Comparing the coverage of the tools.
+
+## 2023/1/27 Trustworthy Software Enabled by Program Analysis and Synthesis
+
+- **Problem**: Quality problems in non-functional properties.
+
+Some advices on job interview:
+
+- Reduce the amount of details, making it less verbose.
+- Future plans should be close to the past work.
+- More introduction and more future plan details.
+- Tell one story, make things connected strictly.
+- What do they care? Money, basically.

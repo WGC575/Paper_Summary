@@ -53,4 +53,3 @@
 ## [ACL 2020] A Transformer-based Approach for Source Code Summarization
 
 <https://arxiv.org/pdf/2005.00653.pdf>
-
