@@ -53,3 +53,23 @@
 ## [ACL 2020] A Transformer-based Approach for Source Code Summarization
 
 <https://arxiv.org/pdf/2005.00653.pdf>
+
+## [arxiv 2019] Automatic Code Summarization: A Systematic Literature Review
+
+<https://arxiv.org/pdf/1909.04352>
+
+### Contribution
+
+- Compared to Moreno's and Nazar's work, while they include text-to-text summarization and code-to-code summarization such as summarizing **mailing list** and **bug reports**, this review focus on **text-to-code** summarization.
+- Reviewed 41 studies focusing on source code summarization from 2010 to 2019
+- Comparing different approaches
+- Synthesis of current SOTA over source code summarization
+- Future research
+
+### Contents
+
+- IE (Information Extraction Techniques)
+- How to generate and what to generate
+- Evaluation
+- Categorization of Approaches
+
