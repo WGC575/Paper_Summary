@@ -54,7 +54,6 @@
 
 <https://arxiv.org/pdf/2005.00653.pdf>
 
-
 ## [arxiv 2019] Automatic Code Summarization: A Systematic Literature Review
 
 <https://arxiv.org/pdf/1909.04352>
