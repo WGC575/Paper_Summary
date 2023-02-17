@@ -100,3 +100,15 @@ Some advices on job interview:
 - More introduction and more future plan details.
 - Tell one story, make things connected strictly.
 - What do they care? Money, basically.
+
+## 2023/2/17 Fairness of KNN - Yannan Li
+
+### Fairness
+
+Similar people should be treated similarly, regardless of protected attributes. That's to say, we give similar decisions for those with similar public attributes.
+
+### Biased-annotated Data
+
+Conservatively assuming all data might be wrong.
+
+### KNN
