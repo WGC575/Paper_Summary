@@ -142,3 +142,11 @@ Differential privacy was developed by cryptographers and thus is often associate
 In computer science, persistent memory is any method or apparatus for efficiently storing data structures such that they can continue to be accessed using memory instructions or memory APIs even after the end of the process that created or last modified them.
 
 Often confused with [non-volatile random-access memory (NVRAM)](https://en.wikipedia.org/wiki/Non-volatile_random-access_memory), persistent memory is instead more closely linked to the concept of persistence in its emphasis on program state that exists outside the fault zone of the process that created it. (A process is a program under execution. The fault zone of a process is that subset of program state which could be corrupted by the process continuing to execute after incurring a fault, for instance due to an unreliable component used in the computer executing the program.)
+
+## Automated Testing for Transferred Applications - Saghar 03/10
+
+### General concerns
+- Code coverage-based test is not enough for projects.
+- Usage-based testing.
+
+### 
