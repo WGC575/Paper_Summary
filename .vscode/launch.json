@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["architectrual design decisions"]
+            "args": ["architectrual design decisions", "--page", "3"]
         }
     ]
 }
